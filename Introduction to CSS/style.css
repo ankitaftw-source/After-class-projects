@@ -1,0 +1,15 @@
+h3{
+    color: red;
+}
+#id1{
+    color: yellow;
+}
+.class1{
+    color: violet;
+}
+h6,p{
+    color: brown;
+}
+*{
+    background-color: aqua;
+}
