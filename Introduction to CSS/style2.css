@@ -1,0 +1,12 @@
+ #one {
+  color: navy;
+ background-color: rgba(103, 103, 103, 0.445);
+}
+  #two{
+ font-style: italic;
+ }
+ .demo {color:darkblue ;}
+ h1,p  {
+    color: aqua;
+ }
+ * { font-size: 30px; }
